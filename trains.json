@@ -1,0 +1,27 @@
+{
+"Trains":[{
+  "id": 6,
+  "first_name": "Emily",
+  "last_name": "TheTrain",
+  "email": "Emily@trains.com",
+  "color": "Green",
+}, {
+  "id": 1,
+  "first_name": "Thomas",
+  "last_name": "TheTrain",
+  "email": "thomas@trains.com",
+  "color": "Blue",
+}, {
+  "id": 2,
+  "first_name": "Edward",
+  "last_name": "TheTrain",
+  "email": "Edward@trains.com",
+  "color": "Blue",
+}, {
+  "id": 5,
+  "first_name": "James",
+  "last_name": "TheTrain",
+  "email": "James@trains.com",
+  "color": "Red",
+}]
+}
